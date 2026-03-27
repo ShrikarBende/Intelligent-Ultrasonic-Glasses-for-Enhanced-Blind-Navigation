@@ -143,9 +143,6 @@ Intelligent-Ultrasonic-Glasses-for-Enhanced-Blind-Navigation/
 │   ├── glasses_prototype.png        # Hardware photo
 │   └── web_ui.png                   # UI screenshot
 │
-├── docs/
-│   └── IEEE_Paper.pdf               # Published paper (if permitted)
-│
 └── README.md
 ```
 
