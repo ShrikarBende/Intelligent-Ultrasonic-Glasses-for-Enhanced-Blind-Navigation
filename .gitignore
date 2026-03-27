@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Node/JS (if used later)
+node_modules/
+.env
+
+# ngrok executable and logs
+ngrok-v3-stable-windows-amd64/
+ngrok.exe
+*.log
+
+# Zip files
+*.zip
+*.tar.gz
+
+# Firebase credentials (IMPORTANT: DO NOT COMMIT REAL CREDENTIALS)
+config_blindglasses.json
