@@ -64,7 +64,7 @@ A browser-based companion app provides visual and audio navigation assistance.
 | Component | Description |
 |-----------|-------------|
 | HC-SR04 Ultrasonic Sensor | Obstacle detection (2 cm – 400 cm range) |
-| Arduino / Microcontroller | Processing sensor data and triggering feedback |
+| Arduino / ESP-32 Microcontroller | Processing sensor data and triggering feedback |
 | 9V Battery | Portable power supply |
 | Vibration Motor / Buzzer | Haptic / audio feedback output |
 | Sunglasses Frame | Wearable housing for the system |
