@@ -268,7 +268,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 **Shrikar Bende**  
-📧 [GitHub Profile](https://github.com/ShrikarBende)  
+🔗 [GitHub Profile](https://github.com/ShrikarBende)  
+💼 [LinkedIn](https://in.linkedin.com/in/shrikar-bende)  
 📄 [IEEE Paper](https://ieeexplore.ieee.org/document/11323794)
 
 ---
