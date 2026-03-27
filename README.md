@@ -1,8 +1,6 @@
 # 🕶️ Intelligent Ultrasonic Glasses for Enhanced Blind Navigation
 
-<p align="center">
-  <img src="Screenshots/glasses_prototype.png" alt="Intelligent Ultrasonic Glasses Prototype" width="600"/>
-</p>
+
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/11323794">
